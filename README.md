@@ -6,11 +6,12 @@ Este projeto consiste na modelagem de um banco de dados relacional para o curso 
 
 Estrutura do Banco de Dados
 
-O banco de dados é composto por quatro tabelas principais:
+```
 empresas_parceiras: Armazena informações sobre as empresas parceiras, como nome, CNPJ, telefone e email.
 tecnologias: Contém dados sobre as tecnologias, incluindo o nome e a área relacionada.
 tecnologias_utilizadas: Estabelece relações entre as empresas parceiras e as tecnologias que elas utilizam.
 colaboradores: Armazena informações sobre os colaboradores, incluindo nome, cargo, email e a empresa à qual estão associados.
+```
 
 Arquivos do Projeto
 
