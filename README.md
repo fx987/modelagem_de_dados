@@ -2,9 +2,8 @@
 
 Introdução
 
-```
+
 Este projeto consiste na modelagem de um banco de dados relacional para o curso de análise de dados. O banco de dados foi projetado para armazenar informações sobre empresas parceiras, tecnologias, tecnologias utilizadas e colaboradores.
-```
 
 Estrutura do Banco de Dados
 
@@ -31,9 +30,8 @@ Para utilizar este projeto, você pode executar o script script_criacao_tabelas.
 
 Finalidade 
 
-```
 Este projeto visa fornecer uma estrutura de banco de dados para suportar atividades de análise de dados relacionadas a empresas parceiras, tecnologias utilizadas e colaboradores, facilitando a organização e recuperação de informações relevantes para o curso.
-```
+
 
 Sinta-se à vontade para contribuir, fazer sugestões ou reportar problemas relacionados à modelagem de dados.
 
