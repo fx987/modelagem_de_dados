@@ -14,9 +14,12 @@ colaboradores: Armazena informações sobre os colaboradores, incluindo nome, ca
 
 Arquivos do Projeto
 
+
+```
 script_criacao_tabelas.sql: Contém os comandos SQL para a criação das tabelas do banco de dados.
 exemplos_inserts.sql: Apresenta exemplos de comandos SQL para inserção de dados nas tabelas.
 consultas_exemplo.sql: Demonstração de consultas SQL que podem ser realizadas neste banco de dados.
+```
 
 Utilização do Projeto
 
