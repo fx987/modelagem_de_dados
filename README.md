@@ -24,9 +24,8 @@ consultas_exemplo.sql: Demonstração de consultas SQL que podem ser realizadas 
 
 Utilização do Projeto
 
-```
 Para utilizar este projeto, você pode executar o script script_criacao_tabelas.sql em seu sistema de gerenciamento de banco de dados para criar a estrutura do banco. Em seguida, utilize o arquivo exemplos_inserts.sql para inserir dados de exemplo nas tabelas. Por fim, explore as consultas de exemplo no arquivo consultas_exemplo.sql para compreender como realizar operações de consulta.
-```
+
 
 Finalidade 
 
